@@ -170,5 +170,12 @@ a {
     border-radius: 4px;
     color: #f9faf8;
     border: #f9faf8 solid;
+}
 
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
 }
