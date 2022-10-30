@@ -104,3 +104,29 @@ a {
 .images p {
     width: 150px;
 }
+
+.container-quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 750px;
+}
+
+.quote .bottom {
+    align-self: flex-end;
+}
+
+.quote .top {
+    align-self: center;
+    flex-wrap: wrap;
+    text-align: justify;
+}
