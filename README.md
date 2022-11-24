@@ -1,5 +1,5 @@
 # landing-page
-Creating an entire web page from scratch using a design provided by TOP.
+Creating a web page from scratch using a design provided by TOP.
 
 
 # Skills Used
